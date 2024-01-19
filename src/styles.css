@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+div,
+p {
+  padding: 10px;
+  border: 1px solid;
+  border-radius: 5px;
+}
+
+.CurrencyContainer {
+  display: flex;
+}
+
+.Currency {
+  background-color: aquamarine;
+  /*margin: auto;*/
+  width: auto;
+  flex-grow: 1;
+  margin: 5px;
+}
