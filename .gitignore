@@ -1,0 +1,4 @@
+# Ignore the following files and folders, do not add to the repository
+
+# Node Dependencies (these are installed with 'yarn install')
+node_modules
